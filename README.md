@@ -1,6 +1,6 @@
 # Claude Clone — Chat com IA em Java/Spring Boot
 
-Clone simplificado do ChatGPT construído em Java com Spring Boot, com streaming de respostas em tempo real, persistência de histórico de conversas e integração com a API da Anthropic (Claude).
+Clone simplificado do Claude construído em Java com Spring Boot, com streaming de respostas em tempo real, persistência de histórico de conversas e integração com a API da Anthropic (Claude).
 
 Projeto desenvolvido como parte de um estudo prático de Spring Boot, aplicando conceitos de arquitetura em camadas, processamento assíncrono e comunicação com APIs externas via streaming.
 
